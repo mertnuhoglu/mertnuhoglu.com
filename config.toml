@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Mert Nuhoglu: Personal Website"
 theme = "tranquilpeak"
 disqusShortname = "mertnuhoglu"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-20351819-1"
 paginate = 20
 canonifyurls = true
 
